@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Técnico em informática pelo Instituto Federal de Alagoas e entusiasta sobre machine learning</h3>
 
-<img align="right" alt="Coding" width="400" src="https://wifflegif.com/gifs/439359-procedural-animation-programming-gif"/>
+<img align="right" alt="Coding" width="400" src="https://31.media.tumblr.com/4128d84fc14f5c3768b747636181bbc6/tumblr_mxloxbDQ1h1qa6q9uo1_r1_500.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cllspy&label=Profile%20views&color=0e75b6&style=flat" alt="cllspy" /> </p>
