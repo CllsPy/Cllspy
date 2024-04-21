@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Machine learning enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-gif%2F4&psig=AOvVaw2fBFF1_mdrzBnMIEJwfzPr&ust=1713746290571000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjOj86I0oUDFQAAAAAdAAAAABA6">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952afxehdfgt436mf06rcpytf89v0cwz9hj2ts1bfwu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cllspy&label=Profile%20views&color=0e75b6&style=flat" alt="cllspy" /> </p>
