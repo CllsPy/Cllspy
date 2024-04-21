@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Machine learning enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO8fNVtsLJFpl67tTOGHpCftLCuaT4NraOig&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO8fNVtsLJFpl67tTOGHpCftLCuaT4NraOig&usqp=CAU](https://img.freepik.com/free-vector/linear-web-development-illustration_1257-357.jpg?size=338&ext=jpg&ga=GA1.1.1700460183.1713139200&semt=ais)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cllspy&label=Profile%20views&color=0e75b6&style=flat" alt="cllspy" /> </p>
