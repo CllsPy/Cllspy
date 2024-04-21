@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">Técnico e entusiasta sobre machine learning</h3>
+<h3 align="center">Machine learning enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO8fNVtsLJFpl67tTOGHpCftLCuaT4NraOig&usqp=CAU">
 
