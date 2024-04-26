@@ -35,11 +35,10 @@
     <td align="center"><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a><br><b>NumPy</b></td>
     <td align="center"><a href="https://langchain.tech/" target="_blank" rel="noreferrer"><img src="https://langchain.tech/static/images/logo.png" alt="langchain" width="40" height="40"/></a><br><b>LangChain</b></td>
     <td align="center"><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/></a><br><b>Hugging Face</b></td>
-    <td align="center"><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/></a><br><b>Matplotlib</b></td>
+    <td align="center"><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/></a><br><b>Matplotlib</b></td>
   </tr>
 </table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cllspy&show_icons=true&locale=en&layout=compact" alt="cllspy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cllspy&show_icons=true&locale=en" alt="cllspy" /></p>
-
