@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cllspy&label=Profile%20views&color=0e75b6&style=flat" alt="cllspy" /> </p>
 
-- 🔭 Currently diving into **machine learning competitions**
+- 🔭 Currently diving into **Machine Learning Competitions**
 
 - 🌱 Learning and mastering **Deep Learning**
 
-- 💬 Ask me about **python, pytorch, tensorflow, sklearn, autogluon, fastai**
+- 💬 Ask me about **Python, Pytorch, Tensorflow, Sklearn,  Autogluon, Fastai**
 
 - 📫 Reach me at **casl2@aluno.ifal.edu.br**
 
