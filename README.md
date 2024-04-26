@@ -1,6 +1,3 @@
-Claro, adicionei uma tabela para os ícones com o nome do framework. Aqui está o README atualizado:
-
-```markdown
 <h1 align="center">Hey there! 👋 I'm Carlos</h1>
 <h3 align="center">Passionate about Machine Learning</h3>
 
