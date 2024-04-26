@@ -42,6 +42,7 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cllspy&show_icons=true&locale=en" alt="GitHub Stats" />
+  <br>
   <img src="https://img.shields.io/github/followers/cllspy?style=social" alt="GitHub Followers" />
   <a href="https://medium.com/@casl2"><img src="https://img.shields.io/badge/-Medium-black?style=flat&logo=medium" alt="Medium" /></a>
   <img src="https://img.shields.io/github/last-commit/cllspy/cllspy?style=flat" alt="Last Commit" />
@@ -49,6 +50,5 @@
 
 <br>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=cllspy&theme=react-dark" alt="GitHub Activity Graph" />
   <img src="https://img.shields.io/github/repo-size/cllspy/cllspy?style=flat" alt="Repository Size" />
 </p>
