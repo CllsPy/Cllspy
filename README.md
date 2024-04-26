@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **casl2@aluno.ifal.edu.br**
 
-<h3 align="left">Languages and Tools:</h3>
+
 <table>
   <tr>
     <td align="center"><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/></a><br><b>FastAPI</b></td>
