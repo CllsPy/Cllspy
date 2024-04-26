@@ -2,13 +2,11 @@
 <h3 align="center">Passionate about Machine Learning</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cllspy&show_icons=true&locale=en&layout=compact" alt="cllspy" /></p>
+ <a href="https://medium.com/@casl2"><img src="https://img.shields.io/badge/-Medium-black?style=flat&logo=medium" alt="Medium" /></a>
+ <img src="https://img.shields.io/github/followers/cllspy?style=social" alt="GitHub Followers" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cllspy&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://img.shields.io/github/followers/cllspy?style=social" alt="GitHub Followers" />
-  <a href="https://medium.com/@casl2"><img src="https://img.shields.io/badge/-Medium-black?style=flat&logo=medium" alt="Medium" /></a>
-  <img src="https://img.shields.io/github/last-commit/cllspy/cllspy?style=flat" alt="Last Commit" />
-</p>
+
+
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=cllspy&theme=react-dark" alt="GitHub Activity Graph" />
@@ -54,3 +52,8 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cllspy&show_icons=true&locale=en" alt="GitHub Stats" />
+ 
+  <img src="https://img.shields.io/github/last-commit/cllspy/cllspy?style=flat" alt="Last Commit" />
+</p>
