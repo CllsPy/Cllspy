@@ -21,7 +21,7 @@
     <td align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a><br><b>Bootstrap</b></td>
     <td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><br><b>CSS</b></td>
     <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><br><b>HTML5</b></td>
-    <td align="center"><a href="https://langchain.tech/" target="_blank" rel="noreferrer"><img src="https://langchain.tech/static/images/logo.png" alt="langchain" width="40" height="40"/></a><br><b>LangChain</b></td>
+    <td align="center"><a href="https://langchain.tech/" target="_blank" rel="noreferrer"><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="langchain" width="40" height="40"/></a><br><b>LangChain</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a><br><b>Pandas</b></td>
