@@ -33,9 +33,7 @@
   <tr>
     <td align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a><br><b>TensorFlow</b></td>
     <td align="center"><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a><br><b>NumPy</b></td>
-    <td align="center"><a href="https://langchain.tech/" target="_blank" rel="noreferrer"><img src="https://langchain.tech/static/images/logo.png" alt="langchain" width="40" height="40"/></a><br><b>LangChain</b></td>
     <td align="center"><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/></a><br><b>Hugging Face</b></td>
-    <td align="center"><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/></a><br><b>Matplotlib</b></td>
   </tr>
 </table>
 
