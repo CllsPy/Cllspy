@@ -1,6 +1,3 @@
-Aqui está o README atualizado com os ícones adicionados:
-
-```markdown
 <h1 align="center">Hey there! 👋 I'm Carlos</h1>
 <h3 align="center">Passionate about Machine Learning</h3>
 
@@ -45,5 +42,4 @@ Aqui está o README atualizado com os ícones adicionados:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cllspy&show_icons=true&locale=en&layout=compact" alt="cllspy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cllspy&show_icons=true&locale=en" alt="cllspy" /></p>
-```
 
