@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cllspy&label=Profile%20views&color=0e75b6&style=flat" alt="cllspy" /> </p>
 
-- 🔭 I’m currently working on **machine learning competitions**
+- 🔭 Atualmente trabalhando em **machine learning competitions**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 Estou aprendendo **Deep Learning**
 
-- 💬 Ask me about **python, pytorch, tensorflow, sklearn, autogluon, fastai**
+- 💬 Me pergunte sobre **python, pytorch, tensorflow, sklearn, autogluon, fastai**
 
-- 📫 How to reach me **casl2@aluno.ifal.edu.br**
+- 📫 Como me achar  **casl2@aluno.ifal.edu.br**
 
 
 <h3 align="left">Languages and Tools:</h3>
