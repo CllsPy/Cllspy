@@ -1,6 +1,3 @@
-Sure, here's your updated HTML code with the Bootstrap, HTML, CSS, and JavaScript icons replaced with Jupyter Notebook, Optuna, and Git icons:
-
-```html
 <h1 align="center">Hey there! 👋 I'm Carlos</h1>
 <h3 align="center">Passionate about Machine Learning</h3>
 
