@@ -24,17 +24,8 @@
     <td align="center"><a href="https://langchain.tech/" target="_blank" rel="noreferrer"><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="LangChain" width="40" height="40"/></a><br><b>LangChain</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a><br><b>Pandas</b></td>
-    <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><br><b>Python</b></td>
-    <td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a><br><b>PyTorch</b></td>
-    <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a><br><b>Scikit-learn</b></td>
-    <td align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a><br><b>Seaborn</b></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a><br><b>TensorFlow</b></td>
-    <td align="center"><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a><br><b>NumPy</b></td>
     <td align="center"><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/></a><br><b>Hugging Face</b></td>
-    <td align="center"><a href="https://gradio.app/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" alt="gradio" width="40" height="40"/></a><br><b>Gradio</b></td>
   </tr>
 </table>
 
