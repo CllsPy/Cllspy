@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cllspy&label=Profile%20views&color=0e75b6&style=flat" alt="cllspy" /> </p>
 
+<br>
 - 🔭 Currently diving into **Machine Learning Competitions**
 
 - 🌱 Learning and mastering **Deep Learning**
@@ -14,7 +15,7 @@
 - 📫 Reach me at **casl2@aluno.ifal.edu.br**
 
 <br>
-
+<br>
 <table>
   <tr>
     <td align="center"><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/141/126/png-transparent-fastapi-hd-logo-thumbnail.png" alt="FastAPI" width="40" height="40"/></a><br><b>FastAPI</b></td>
