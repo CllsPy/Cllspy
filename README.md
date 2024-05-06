@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
   <h1> I'm Carlos</h1>
   <h3>Passionate about Machine Learning</h3>
@@ -44,4 +44,3 @@
   <br>
   <img src="https://img.shields.io/github
 </div>
-```
