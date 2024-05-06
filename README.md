@@ -11,7 +11,7 @@
 
 - 🌱 Learning and mastering **Deep Learning**
 
-- 💬 Ask me about **Python, Pytorch**
+- 💬 Ask me about **Python, Pytorch, Sklearn, Pandas, Seaborn**
 
 - 📫 Reach me at **casl2@aluno.ifal.edu.br**
 
@@ -20,7 +20,10 @@
 
 <table>
   <tr>
-    <td align="center" colspan="2"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a><br><b>PyTorch</b></td>
+    <td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a><br><b>PyTorch</b></td>
+    <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="40" height="40"/></a><br><b>Sklearn</b></td>
+    <td align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="pandas" width="40" height="40"/></a><br><b>Pandas</b></td>
+    <td align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/></a><br><b>Seaborn</b></td>
   </tr>
 </table>
 
