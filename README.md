@@ -11,7 +11,7 @@
 
 - 🌱 Learning and mastering **Deep Learning**
 
-- 💬 Ask me about **Python, Pytorch, Sklearn, Pandas, Seaborn, fastai, gradio, autogluon**
+- 💬 Ask me about **Python, Pytorch**
 
 - 📫 Reach me at **casl2@aluno.ifal.edu.br**
 
@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td align="center" colspan="2"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a><br><b>PyTorch & TensorFlow</b></td>
+    <td align="center" colspan="2"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a><br><b>PyTorch</b></td>
   </tr>
 </table>
 
