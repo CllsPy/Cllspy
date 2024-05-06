@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.linuxfoundation.org/hs-fs/hubfs/PyTorchLogo_Icon_fullColor_RGB.png?width=259&height=288&name=PyTorchLogo_Icon_fullColor_RGB.png" alt="pytorch" width="40" height="40"/></a><br><b>PyTorch</b></td>
-    <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://numfocus.org/wp-content/uploads/2017/11/scikitlearn-logo-300.png" alt="sklearn" width="40" height="40"/></a><br><b>Sklearn</b></td>
+    <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="sklearn" width="40" height="40"/></a><br><b>Sklearn</b></td>
     <td align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/306534/pandas.svg" alt="pandas" width="40" height="40"/></a><br><b>Pandas</b></td>
     <td align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="40" height="40"/></a><br><b>Seaborn</b></td>
   </tr>
