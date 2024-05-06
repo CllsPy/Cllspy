@@ -1,4 +1,3 @@
-![image](https://github.com/CllsPy/Cllspy/assets/96326019/998b9800-0f7a-4495-9ea9-659b5144f4ac)
 <div align="center">
   <h1> I'm Carlos</h1>
   <h3>Passionate about Machine Learning</h3>
@@ -31,8 +30,8 @@
   </tr>
   <tr>
     <td align="center"><a href="https://www.gradio.app/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" alt="gradio" width="40" height="40"/></a><br><b>Gradio</b></td>
-    <td align="center"><a href="https://fastai.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/36925542?s=200&v=4" alt="fastai" width="40" height="40"/></a><br><b>fastai</b></td>
-    <td align="center"><a href="https://auto.gluon.ai/stable/index.html" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/51966902?s=200&v=4" alt="autogluon" width="40" height="40"/></a><br><b>Autogluon</b></td>
+    <td align="center"><a href="https://fastai.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:1400/0*mTbJ8ZfyeJlzAjmr.png" alt="fastai" width="40" height="40"/></a><br><b>fastai</b></td>
+    <td align="center"><a href="https://auto.gluon.ai/stable/index.html" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1373809646046040067/wTG6A_Ct_400x400.png" alt="autogluon" width="40" height="40"/></a><br><b>Autogluon</b></td>
     <td align="center"><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/></a><br><b>Hugging Face</b></td>
   </tr>
 </table>
