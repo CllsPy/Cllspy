@@ -11,7 +11,7 @@
 
 - 🌱 Learning and mastering **Deep Learning**
 
-- 💬 Ask me about **Python, Pytorch, Tensorflow, Sklearn,  Autogluon, Fastai**
+- 💬 Ask me about **Python, Pytorch, Sklearn, Pandas, Seaborn, fastai, gradio, autogluon**
 
 - 📫 Reach me at **casl2@aluno.ifal.edu.br**
 
@@ -20,13 +20,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/141/126/png-transparent-fastapi-hd-logo-thumbnail.png" alt="FastAPI" width="40" height="40"/></a><br><b>FastAPI</b></td>
-    <td align="center" colspan="2"><a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width="40" height="40"/></a><br><b>Jupyter & Optuna</b></td>
-    <td align="center" colspan="2"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/></a><br><b>Git</b></td>
-  </tr>
-  <tr>
     <td align="center" colspan="2"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a><br><b>PyTorch & TensorFlow</b></td>
-    <td align="center" colspan="2"><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/></a><br><b>Hugging Face & LangChain</b></td>
   </tr>
 </table>
 
@@ -35,3 +29,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cllspy&show_icons=true&locale=en" alt="GitHub Stats" />
   <br>
   <img src="https://img.shields.io/github
+</p>
