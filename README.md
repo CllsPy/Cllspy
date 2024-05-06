@@ -30,7 +30,7 @@
     <td align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="40" height="40"/></a><br><b>Seaborn</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.gradio.app/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:460/1*KpDeA-urMZBVLs3W6sno4Q.jpeg" alt="gradio" width="40" height="40"/></a><br><b>Gradio</b></td>
+    <td align="center"><a href="https://www.gradio.app/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" alt="gradio" width="40" height="40"/></a><br><b>Gradio</b></td>
     <td align="center"><a href="https://fastai.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/36925542?s=200&v=4" alt="fastai" width="40" height="40"/></a><br><b>fastai</b></td>
     <td align="center"><a href="https://auto.gluon.ai/stable/index.html" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/51966902?s=200&v=4" alt="autogluon" width="40" height="40"/></a><br><b>Autogluon</b></td>
     <td align="center"><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/></a><br><b>Hugging Face</b></td>
