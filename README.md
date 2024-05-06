@@ -23,7 +23,7 @@
     <td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.linuxfoundation.org/hs-fs/hubfs/PyTorchLogo_Icon_fullColor_RGB.png?width=259&height=288&name=PyTorchLogo_Icon_fullColor_RGB.png" alt="pytorch" width="40" height="40"/></a><br><b>PyTorch</b></td>
     <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="40" height="40"/></a><br><b>Sklearn</b></td>
     <td align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.5124540665.7259/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="pandas" width="40" height="40"/></a><br><b>Pandas</b></td>
-    <td align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="[https://seaborn.pydata.org/_images/logo-wide-lightbg.svg](https://i.pinimg.com/474x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg)" alt="seaborn" width="40" height="40"/></a><br><b>Seaborn</b></td>
+    <td align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg](https://i.pinimg.com/474x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg" alt="seaborn" width="40" height="40"/></a><br><b>Seaborn</b></td>
   </tr>
 </table>
 
