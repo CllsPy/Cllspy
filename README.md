@@ -1,3 +1,4 @@
+```html
 <div align="center">
   <h1> I'm Carlos</h1>
   <h3>Passionate about Machine Learning</h3>
@@ -13,7 +14,7 @@
 
 - 🌱 Learning and mastering **Deep Learning**
 
-- 💬 Ask me about **Python, Pytorch, Sklearn, Pandas, Seaborn**
+- 💬 Ask me about **Python, Pytorch, Sklearn, Pandas, Seaborn, Gradio, fastai, Autogluon, Hugging Face**
 
 - 📫 Reach me at **casl2@aluno.ifal.edu.br**
 
@@ -28,6 +29,12 @@
     <td align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/306534/pandas.svg" alt="pandas" width="40" height="40"/></a><br><b>Pandas</b></td>
     <td align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="40" height="40"/></a><br><b>Seaborn</b></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://www.gradio.app/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/63184820?s=200&v=4" alt="gradio" width="40" height="40"/></a><br><b>Gradio</b></td>
+    <td align="center"><a href="https://fastai.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/36925542?s=200&v=4" alt="fastai" width="40" height="40"/></a><br><b>fastai</b></td>
+    <td align="center"><a href="https://auto.gluon.ai/stable/index.html" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/51966902?s=200&v=4" alt="autogluon" width="40" height="40"/></a><br><b>Autogluon</b></td>
+    <td align="center"><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/></a><br><b>Hugging Face</b></td>
+  </tr>
 </table>
 </div>
 
@@ -37,3 +44,4 @@
   <br>
   <img src="https://img.shields.io/github
 </div>
+```
