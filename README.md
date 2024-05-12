@@ -8,13 +8,13 @@
 
 <br>
 
-- 🔭 Currently diving into **Machine Learning Competitions**
+- Currently diving into **Machine Learning Competitions**
 
-- 🌱 Learning and mastering **Deep Learning**
+- Learning and mastering **Deep Learning**
 
-- 💬 Ask me about **Python, Pytorch, Sklearn, Pandas, Seaborn, Gradio, fastai, Autogluon, Hugging Face**
+- Ask me about **Python, Pytorch, Sklearn, Pandas, Seaborn, Gradio, fastai, Autogluon, Hugging Face**
 
-- 📫 Reach me at **casl2@aluno.ifal.edu.br**
+- Reach me at **casl2@aluno.ifal.edu.br**
 
 <br>
 <br>
