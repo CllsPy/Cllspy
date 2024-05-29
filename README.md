@@ -1,18 +1,12 @@
 <div align="center">
   <h1> I'm Carlos</h1>
-  <h3>Passionate about Machine Learning</h3>
+  <h2>I like to build Neural Networks</h2>
 </div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cllspy&label=Profile%20views&color=0e75b6&style=flat" alt="cllspy" /> </p>
 
 <br>
-
-- Currently diving into **Machine Learning Competitions**
-
-- Learning and mastering **Deep Learning**
-
-- Ask me about **Python, Pytorch, Sklearn, Pandas, Seaborn, Gradio, fastai, Autogluon, Hugging Face**
 
 - Reach me at **casl2@aluno.ifal.edu.br**
 
