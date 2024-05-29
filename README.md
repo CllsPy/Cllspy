@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Carlos L. </h1>
-  <h3>I like building neural networks and appreciate minimalism, :)</h3>
+  <p>I like building neural networks and appreciate minimalism, :)</p>
 </div>
 
 
