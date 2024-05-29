@@ -1,6 +1,6 @@
 <div align="center">
   <h1> I'm Carlos</h1>
-  <h2>I like to build Neural Networks</h2>
+  <h3>I like building neural networks and appreciate minimalism, :)</h3>
 </div>
 
 
@@ -8,7 +8,7 @@
 
 <br>
 
-- Reach me at **casl2@aluno.ifal.edu.br**
+send me an email: **casl2@aluno.ifal.edu.br**
 
 <br>
 <br>
