@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> I'm Carlos</h1>
+  <h1> Carlos L. </h1>
   <h3>I like building neural networks and appreciate minimalism, :)</h3>
 </div>
 
