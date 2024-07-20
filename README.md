@@ -6,7 +6,7 @@ Welcome to my personal space! Here’s a bit about me:
 - **Writing**: Passionate about clear, impactful writing and communication.
 - **Math**: Enthusiastic about exploring and solving mathematical challenges.
 
-### My Tech Stack
+### Languages and Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
