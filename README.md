@@ -1,5 +1,7 @@
 # Carlos L.
 
+![Carlos L.](./image.png)
+
 Welcome to my personal space! Here’s a bit about me:
 
 - **AI Safety**: Dedicated to ensuring the safe development and deployment of artificial intelligence technologies.
