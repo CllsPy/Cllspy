@@ -1,6 +1,5 @@
 # Carlos L.
-
-![Carlos L.](./image.png)
+![avatartion (3)](https://github.com/user-attachments/assets/3e51d42e-2d25-4d4f-817a-383eeccd53a9)
 
 Welcome to my personal space! Here’s a bit about me:
 
