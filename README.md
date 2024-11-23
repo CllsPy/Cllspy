@@ -10,7 +10,7 @@ I'm passionate about:
 
 🛠️ **Expertise:**  
 - **Programming:** Python | Go  
-- **Focus Areas:** Machine Learning, AI Safety  
+- **Focus Areas:** Machine Learning, NLP  
 
 📚 **Explore My Work:**  
 - 🌐 [CllTorch Blog](https://cllspy.github.io/CllTorch-Blog/)  
