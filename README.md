@@ -1,14 +1,9 @@
-Here’s a clean, minimalist README draft following your requirements:
-
----
-
 # Carlos L. 🌟  
 ![Profile Views](https://komarev.com/ghpvc/?username=carloscll&color=0db39e)  
 ![GitHub Followers](https://img.shields.io/github/followers/carloscll?label=Follow&style=social)  
 ![Contributions](https://img.shields.io/badge/Contributions-500%2B-green)  
 ![Offensives](https://img.shields.io/badge/Offensives-Zero-0db39e)
 
----
 
 ## 👋 About Me  
 **AI Safety Advocate | Code Craftsman | Math Enthusiast**  
@@ -26,17 +21,7 @@ I'm passionate about:
 - 🌐 [CllTorch Blog](https://cllspy.github.io/CllTorch-Blog/)  
 - 📊 [My Kaggle](https://www.kaggle.com/carloscll)  
 
----
-
-## 📈 Stats  
-- **GitHub Contributions:** *Over 500+ contributions across repositories!*  
-- **Offensives:** *Zero. Dedicated to professionalism.*  
-
----
-
 > *“Striving for excellence in both technology and ethics to shape the future responsibly.”*
-
----
 
 ### **Contact Me**  
 Feel free to connect!  
