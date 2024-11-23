@@ -1,6 +1,4 @@
 # Carlos L. 🌟  
-![Profile Views](https://komarev.com/ghpvc/?username=carloscll&color=0db39e)  
-![GitHub Followers](https://img.shields.io/github/followers/carloscll?label=Follow&style=social)  
 
 ## 👋 About Me  
 **AI Safety Advocate | Code Craftsman | Math Enthusiast**  
