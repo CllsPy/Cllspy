@@ -1,3 +1,3 @@
-im not fancy
+I am a researcher and developer working on Artificial Intelligence applications in education, science, and automation. My research includes generative AI for learning, with a publication at COBENGE 2025, and scientific software for composite material analysis, published at CILAMCE 2024 and MeComPE. I also participate in Kaggle competitions, winning the “Concrete Strength – Regression” challenge and gaining experience in NLP, computer vision, and tabular data. On GitHub, I share projects like VIBE (YouTube to blog posts) and SAGE (LLM-based paper summarization).
 
 [x dot com](https://x.com/CllTheCoder) ⋅ [kaggle](https://www.kaggle.com/carloscll) ⋅ [cv](https://drive.google.com/file/d/1rOAT7LlJDYMnf0Beh9Xpa7VKlH0ivbT_/view?usp=sharing) ⋅ [cv of failures](https://drive.google.com/file/d/1rUWMwI5iZlwFymLMd24yHOgO_NVNaEEH/view?usp=sharing) ⋅ [blog](https://cllspy.github.io/CllTorch-Blog/)  ⋅  [huggingface](https://huggingface.co/CASLL)
