@@ -3,4 +3,4 @@ Focuses on research addressing the core challenges of Large Language Models (LLM
 <img width="498" height="278" alt="image" src="https://github.com/user-attachments/assets/8b001c1c-3f74-405e-ae3f-5aab56941392" />
 
 
-[x dot com](https://x.com/CllTheCoder) ⋅ [kaggle](https://www.kaggle.com/carloscll) ⋅ [cv](https://drive.google.com/drive/folders/10xD49Wp4aSZlNZJTwGqWuesHlrT0z6zv?hl=pt-br) ⋅ [cv of failures](https://drive.google.com/file/d/1wiiVKa41FhtYXprEibfOKf_basZ9D3JF/view?usp=sharing) ⋅ [personal blog](https://carlosxlima.super.site/)  ⋅ [technical blog](https://cllspy.github.io/blog/) ⋅  [huggingface](https://huggingface.co/CASLL) 
+[x dot com](https://x.com/CllTheCoder) ⋅ [kaggle](https://www.kaggle.com/carloscll) ⋅ [cv](https://drive.google.com/file/d/1Bd-WR2FbEeznmZDphXyKLVi_Ud69LKub/view?usp=sharing) ⋅ [cv of failures](https://drive.google.com/file/d/1wiiVKa41FhtYXprEibfOKf_basZ9D3JF/view?usp=sharing) ⋅ [personal blog](https://carlosxlima.super.site/)  ⋅ [technical blog](https://cllspy.github.io/blog/) ⋅  [huggingface](https://huggingface.co/CASLL) 
