@@ -1,4 +1,4 @@
-### hi, i'm carlos!
+### Hi, I'm Carlos.
 
 An AI Researcher with focus on machine learning. I bring data science ideas from early prototypes to production. This includes problem identification, data collection, model creation, deployment and maintenance. 
 
