@@ -1,3 +1,5 @@
+Hello Everyone 🌟
+
 _AI Researcher with focus on machine learning. I bring data science ideas from early prototypes to production. This includes problem identification, data collection, model creation, deployment and maintenance._
 
 - [x dot com](https://x.com/CllTheCoder), [curius](https://t.co/sBP258pC4f)
@@ -6,5 +8,3 @@ _AI Researcher with focus on machine learning. I bring data science ideas from e
 - [medium](https://medium.com/@ifaledu2017/classifica%C3%A7%C3%A3o-autom%C3%A1tica-de-perguntas-do-yahoo-com-regress%C3%A3o-log%C3%ADsticaexperi%C3%AAncia-cb82198e1aaa), [substack](https://substack.com/@carlosa875629)
 - [hugging face](https://huggingface.co/CASLL), [kaggle](https://www.kaggle.com/carloscll)
 - [deep-ml](https://www.deep-ml.com/profile/ro2BgCrol1Vcez2kVRXOh2QTXrf1)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=CllsPy&theme=dark)](https://git.io/streak-stats)
