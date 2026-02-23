@@ -28,6 +28,4 @@ _AI Researcher with focus on machine learning. I bring data science ideas from e
     `-----------------------------'
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CllsPy&show_icons=true&theme=dark&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CllsPy&layout=compact&theme=dark&cache_seconds=1800)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CllsPy&theme=dark)](https://git.io/streak-stats)
