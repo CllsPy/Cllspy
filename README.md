@@ -2,9 +2,7 @@ Hello Everyone, I'm Carlos!
 
 **AI Researcher** with focus on **machine learning**. I bring **data science** ideas from early prototypes to **production**. This includes **problem identification**, data collection, **model creation**, deployment and **maintenance**.
 
----
-
-findme
+findme:
 - [x dot com](https://x.com/CllTheCoder), [curius](https://t.co/sBP258pC4f)
 - [**curriculum**](https://drive.google.com/file/d/1Bd-WR2FbEeznmZDphXyKLVi_Ud69LKub/view?usp=sharing), [cv of failures](https://drive.google.com/file/d/1GvxOLquBVoeBXE3tUusbSSeQ662cg1EP/view?usp=sharing)
 - [personal blog](https://carlos-log.super.site/), [technical blog](https://cllspy.github.io/blog/)
