@@ -7,6 +7,8 @@ _AI Researcher with focus on machine learning. I bring data science ideas from e
 - [hugging face](https://huggingface.co/CASLL), [kaggle](https://www.kaggle.com/carloscll)
 - [deep-ml](https://www.deep-ml.com/profile/ro2BgCrol1Vcez2kVRXOh2QTXrf1)
 
+```
+
                  ,----------------,              ,---------,
             ,-----------------------,          ,"        ,"|
           ,"                      ,"|        ,"        ,"  |
