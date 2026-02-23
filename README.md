@@ -7,25 +7,5 @@ _AI Researcher with focus on machine learning. I bring data science ideas from e
 - [hugging face](https://huggingface.co/CASLL), [kaggle](https://www.kaggle.com/carloscll)
 - [deep-ml](https://www.deep-ml.com/profile/ro2BgCrol1Vcez2kVRXOh2QTXrf1)
 
-```
-
-                 ,----------------,              ,---------,
-            ,-----------------------,          ,"        ,"|
-          ,"                      ,"|        ,"        ,"  |
-         +-----------------------+  |      ,"        ,"    |
-         |  .-----------------.  |  |     +---------+      |
-         |  |                 |  |  |     | -==----'|      |
-         |  | CllTheCoder:~$  |  |  |     |         |      |
-         |  |                 |  |  |/----|`---=    |      ;
-         |  |                 |  |  |   ,/|==== ooo |      ;
-         |  `-----------------'  |," .;'| |((((     |  ,"
-         +-----------------------+  ;;  | |         |,"
-            /_)______________(_/  //'   | +---------+
-       ___________________________/___  `,
-      /  oooooooooooooooo  .o.  oooo /,   ,"-----------
-     / ==ooooooooooooooo==.o.  ooo= //   ,`--{)B     ,"
-    /_==__==========__==_ooo__ooo=_/'   /___________,"
-    `-----------------------------'
-```
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=CllsPy&theme=dark)](https://git.io/streak-stats)
+![Metrics](https://raw.githubusercontent.com/CllsPy/CllsPy/main/github-metrics.svg)
