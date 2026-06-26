@@ -1,7 +1,4 @@
-Hello Everyone, I'm Carlos!
-
-**AI Researcher** with focus on **machine learning**. I bring **data science** ideas from early prototypes to **production**. This includes **problem identification**, data collection, **model creation**, deployment and **maintenance**.
-
+# Hello and Welcome
 
 ### About Me
 - I work as a aie at @blisai, and i focus primarly agentic flows.
