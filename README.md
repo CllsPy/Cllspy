@@ -15,7 +15,7 @@
 ### Get in Touch
 - [X](https://x.com/CllTheCoder)
 - [Curius](https://t.co/sBP258pC4f)
-- [Curriculum](https://drive.google.com/file/d/1Bd-WR2FbEeznmZDphXyKLVi_Ud69LKub/view?usp=sharing)
+- [Curriculum](https://drive.google.com/file/d/1WeD49bE5w4aKaSIIPVK70OdsTNxeFMLc/view?usp=sharing)
 - [CV of Failures](https://drive.google.com/file/d/1GvxOLquBVoeBXE3tUusbSSeQ662cg1EP/view?usp=sharing)
 - [Personal Blog](https://carlos-log.super.site/)
 - [Technical Blog](https://cllspy.github.io/blog/)
